@@ -1,0 +1,5 @@
+{
+  "name": "Loopable Video Generator",
+  "description": "Generate a seamless, loopable video from a single image.",
+  "requestFramePermissions": []
+}
